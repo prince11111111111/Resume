@@ -7,7 +7,6 @@ Welcome to my personal resume repository. This space contains my resume, project
 ## Resume
 - [Download Resume](./Prince%20Negi.pdf)
 - [Self Introduction Video](https://drive.google.com/file/d/15_zMe7EZmBfusQdFOU8_6DiMMVGsYBKw/view?usp=drivesdk)
-)
 
 ---
 
